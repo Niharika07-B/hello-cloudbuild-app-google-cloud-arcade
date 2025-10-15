@@ -11,7 +11,7 @@ example, Kubernetes manifests) stored in a Git repository.
 
 In this tutorial, you create a CI/CD pipeline that automatically builds a
 container image from commited code, stores the image in Google Artifact
-Registry, updates a Kubernetes manifest in a Git repository and triggers a
+Registry, updates a Kubernetes manifest in a Git repository and triggers a 
 deployment to Kubernetes Engine using that manifest.
 
 This tutorial uses two Git repositories: one for the application —the _app_
